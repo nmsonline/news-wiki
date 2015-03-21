@@ -1,2 +1,2 @@
 # news-wiki
-Sky News Content Wiki
+<a href='https://github.com/nmsonline/news-wiki/wiki'>Sky News Content Wiki</a>
